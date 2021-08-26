@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(98,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(130,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(176,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(217,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(552,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(577,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(602,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(634,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(660,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(686,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(712,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(756,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(790,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(816,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(846,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(880,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Assignment_3\main.cpp(914,23): warning C4018: '<': signed/unsigned mismatch
+  Assignment_3.vcxproj -> C:\Users\Nathan\Desktop\CSCI251\Assn3\Assignment_3\Debug\Assignment_3.exe
